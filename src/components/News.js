@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import NewsIteam from '../NewsIteam'
+import NewsIteam from './NewsIteam'
 import Spinner from './Spinner';
 import PropTypes from 'prop-types'
 import InfiniteScroll from "react-infinite-scroll-component";
