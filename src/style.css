@@ -1,0 +1,10 @@
+.card{
+    transform: all 0.3s;
+}
+.card:hover{
+    transform: scale(1.09);
+}
+
+
+
+  
