@@ -23,6 +23,7 @@ const News = (props) => {
   }
   useEffect(() => {
     updateNews();
+    // eslint-disable-next-line
   }, [])
   const fetchMoreData = async () => {
     const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=f73190b2ac1a443196960ba0188ce3fb&page=${page}&pageSize=${props.pageSize}`;
