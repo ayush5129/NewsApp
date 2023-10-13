@@ -2,9 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Deployment <br>
+In this project, I used NewsAPI to fetch news, but it became unsupported when I tried to host it on the webpage. Therefore, I am including images of the project to provide a better understanding of it.
 
-In the project directory, you can run:
+Have a look --->
+---
+![Alt Image Not Found](
 
 ### `npm start`
 
