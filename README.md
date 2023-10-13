@@ -7,7 +7,8 @@ In this project, I used NewsAPI to fetch news, but it became unsupported when I 
 
 Have a look --->
 ---
-![Alt Image Not Found](
+![Screenshot 2023-10-13 151717](https://github.com/ayush5129/NewsApp/assets/130050135/ca8b3a1c-5c85-4c06-b9b8-36809d37241f)
+
 
 ### `npm start`
 
