@@ -9,6 +9,10 @@ Have a look --->
 ---
 ![Screenshot 2023-10-13 151717](https://github.com/ayush5129/NewsApp/assets/130050135/ca8b3a1c-5c85-4c06-b9b8-36809d37241f)
 
+# Sticky Navbar
+![Screenshot 2023-10-13 151857](https://github.com/ayush5129/NewsApp/assets/130050135/b148f045-1e86-4c44-87c8-4bee1ad7070a)
+
+
 
 ### `npm start`
 
